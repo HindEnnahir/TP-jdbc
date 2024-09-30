@@ -50,3 +50,11 @@ Les données à insérer dans la table sont les suivantes :
 ## Conclusion
 
 Ces deux projets permettent de gérer efficacement les informations sur les sites et de suivre les contributions des développeurs. Ils facilitent la prise de décision et améliorent la gestion des ressources au sein des projets.
+
+## vidéo démonstrative de TP1 et travail à rendre
+
+
+https://github.com/user-attachments/assets/fd5e01fb-9ab1-4ca8-85c4-9a841c6e7894
+
+
+
